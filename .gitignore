@@ -1,0 +1,7 @@
+node_modules/
+.env
+uploads/signatures/*
+!uploads/signatures/.gitkeep
+dist/
+.DS_Store
+*.log
